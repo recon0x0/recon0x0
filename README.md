@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hey there! 👋 </h1>
 
 <h5 align="center"> Guidewire Developer | CTF Player | CyberSec Enthusiast </h5>
 
