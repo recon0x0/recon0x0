@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h1>
 
-<h3> Guidewire Developer | CTF Player | CyberSec Enthusiast </h3>
+<h5 align="center"> Guidewire Developer | CTF Player | CyberSec Enthusiast </h5>
 
 
 <!--
