@@ -2,7 +2,7 @@
 
 <h5 align="center"> Guidewire Developer | CTF Player | CyberSec Enthusiast </h5>
 
-<h5>:tophat: About Me </h5>
+<h5>:student: About Me </h5>
 
 - 🤔 Exploring Bugs :smiling_face_with_tear:
 - :trophy: Loves Hacking and Cybersecurity.
