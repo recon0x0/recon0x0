@@ -11,6 +11,6 @@
 - :bicyclist: I’m looking to collaborate on cybersecurity
  
 <h5> Connect with me </h5>
-<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/tanuj-dey/" rel="nofollow noreferrer" style="text-decoration: none">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
