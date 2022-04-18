@@ -10,3 +10,5 @@
 - 🌱 Learning and persuing Programming and CTF competitions.
 - :bicyclist: I’m looking to collaborate on cybersecurity
  
+<h5> Connect with me </h5>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
