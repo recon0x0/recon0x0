@@ -8,5 +8,5 @@
 - :trophy: Loves Hacking and Cybersecurity.
 - 🔭 Researching and Learning cybersecurity stuff
 - 🌱 Learning and persuing Programming and CTF competitions.
-- 👯 I’m looking to collaborate on ...
+- :bicyclist: I’m looking to collaborate on cybersecurity
  
